@@ -1,3 +1,5 @@
+
+
 # netflix gpt
 
 --create react-app
@@ -6,13 +8,18 @@
 --routing
 --login form
 --sign up form 
---form validation
+--form validation![Screenshot 2025-03-25 124947](https://github.com/user-attachments/assets/89d73306-a543-4f72-a222-405ddfdc34db)
+
 --useRef hook
---useState
---firebase backend setup
---deploying app to production
+--useState![Screenshot 2025-03-25 125033](https://github.com/user-attachments/assets/0286a141-7f66-4c19-bf92-a0f54faeef65)
+
+--firebase backend setup![Screenshot 2025-03-25 125154](https://github.com/user-attachments/assets/4dfdc653-644d-4b91-b13a-b94405397c37)
+
+--deploying app to production![Screenshot 2025-03-25 125206](https://github.com/user-attachments/assets/6da05851-288e-456b-bc54-136cbd62aa04)
+
 --creating a sign up user
----created sign in user 
+---created sign in user ![Screenshot 2025-03-25 124958](https://github.com/user-attachments/assets/45344ced-8b18-49dd-973d-0cb216813704)
+
 --authenticated both in firebase
 --installed redux with slice 
 ---instead of doing dispacth again and again we will use firebase onauthStateChnage
